@@ -1,5 +1,6 @@
 .env.local
 sqlite.db
+.git
 
 
 
